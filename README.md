@@ -39,12 +39,13 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![empd ex 6 1 (image 1)](https://github.com/user-attachments/assets/cb463959-7132-4f4f-af1b-094e0822b407)
+![empd ex 6 1 (image2)](https://github.com/user-attachments/assets/6e57499c-03a7-4f3a-a193-a352841507ea)
+![empd ex 6 1(image3)](https://github.com/user-attachments/assets/43c96536-8b4f-41ca-90f1-48dc7459ac89)
 
 ## Output:
-![Screenshot 2024-11-29 134107](https://github.com/user-attachments/assets/20cf80fe-569c-4e34-add6-48efdbc156c7)
+![Screenshot 2024-11-29 134107](https://github.com/user-attachments/assets/582e5551-a5a0-4082-8458-1fdef946b2ba)
+
 
 ### Name:jeyaarikaran P
 ### Register Number:24002171
